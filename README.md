@@ -76,30 +76,6 @@ The project includes request status tracking, leave history, and basic reporting
 
 ---
 
-## Relevant Coursework
-
-- Web Application Development
-- Machine Learning
-- Data Sampling Methods
-- Introduction to Cyber Security
-- Embedded System Design
-- Optimization
-- Probability and Statistics
-- Database Systems
-- Data Structures and Algorithms
-- Computer Architecture
-- Operating Systems
-- Object-Oriented Programming
-- Linux Programming Environment
-- Programming Fundamentals
-- Discrete Mathematics
-- Linear Algebra
-- Calculus
-- Differential Equations
-- Computer Science Specialized English
-
----
-
 ## Tech Stack
 
 <h3 align="center">Core Programming & Web Development</h3>
