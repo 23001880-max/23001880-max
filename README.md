@@ -1,11 +1,6 @@
 # Hi, I am Phạm Dương Hoàng
 
 **Computer and Information Sciences Student @ HUS-VNU**  
-**Aspiring Software Developer | Web Development | Java/.NET | SQL**
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=flat-square)
 
 ---
 
@@ -14,8 +9,6 @@
 Hello! I am a Computer and Information Sciences student at Hanoi University of Science - Vietnam National University (HUS-VNU).
 
 I am interested in software development, web application development, database systems, and system design. I am currently building a strong foundation in programming, object-oriented programming, data structures and algorithms, databases, operating systems, and web technologies.
-
-My goal is to become a Software Developer and participate in real-world projects using technologies such as Java, .NET, SQL, HTML, CSS, JavaScript, and modern web frameworks.
 
 ---
 
@@ -109,25 +102,54 @@ The project includes request status tracking, leave history, and basic reporting
 
 ## Tech Stack
 
-### Programming Languages
+<h3 align="center">Core Programming & Web Development</h3>
 
-`Java` `C#` `Python` `JavaScript` `SQL`
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-E67E22?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20MVC-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAZOR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
 
-### Web Development
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/JQUERY-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-`HTML` `CSS` `JavaScript` `Bootstrap` `jQuery` `ASP.NET MVC` `Razor`
+---
 
-### Database
+<h3 align="center">Database & Backend</h3>
 
-`SQL Server` `MySQL`
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-### Software Engineering
+---
 
-`Object-Oriented Programming` `Data Structures and Algorithms` `MVC Architecture` `REST API` `Debugging`
+<h3 align="center">Software Engineering & Tools</h3>
 
-### Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/OOP-34495E?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVC%20Architecture-2C3E50?style=for-the-badge&logo=framework&logoColor=white" />
+  <img src="https://img.shields.io/badge/DATA%20STRUCTURES-1F618D?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/ALGORITHMS-8E44AD?style=for-the-badge&logo=thealgorithms&logoColor=white" />
+</p>
 
-`Git` `GitHub` `Visual Studio` `Visual Studio Code` `SQL Server Management Studio` `Linux`
+<p align="center">
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VISUAL%20STUDIO-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
