@@ -165,7 +165,6 @@ The project includes request status tracking, leave history, and basic reporting
 
 **Email:** 23001880@hus.edu.vn  
 **LinkedIn:** https://www.linkedin.com/in/pdh153  
-**GitHub:**  
 
 ---
 
