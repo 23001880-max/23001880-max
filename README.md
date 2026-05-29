@@ -31,18 +31,44 @@ I am interested in software development, web application development, database s
 - Willingness to participate in training and real software development projects
 - Interest in working in a professional software development environment
 
----
-
 ## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
+### Build Your AI Translator — SCI-Translate
+
+A specialized English–Vietnamese scientific document translation system.  
+The project applies Machine Translation, RAG, Translation Memory, and Knowledge Graph to improve terminology consistency and translation quality for scientific documents.
+
+**My Role:**  
+Data Engineer — responsible for building the data pipeline and preparing bilingual corpus/knowledge data.
+
+**Main Responsibilities:**
+
+- Collected English–Vietnamese scientific sentence data
+- Cleaned and normalized raw text data
+- Aligned bilingual EN–VI sentence pairs
+- Removed duplicated data using hash-based deduplication
+- Split corpus into train/test datasets
+- Loaded translation memory data into PostgreSQL
+- Seeded domain terminology into Neo4j Knowledge Graph
+- Validated dataset schema, language quality, and corpus statistics
+
+**Tech Stack:**  
+`Python` | `Scrapy` | `Pandas` | `SQLAlchemy` | `PostgreSQL` | `Neo4j` | `FastAPI` | `RAG` | `Docker`
+
+</td>
+<td width="50%" valign="top">
+
 ### Library Management System
 
 A web-based library management system built with a separated frontend and backend architecture.  
 The system supports book management, user management, borrowing records, ledger tracking, and library operation management.
+
+**My Responsibility:**  
+Implemented the **User Borrow History** feature on branch `feature-no13-user-history`.
 
 **Main Tasks:**
 
@@ -52,13 +78,24 @@ The system supports book management, user management, borrowing records, ledger 
 - Retrieved related user, book, and transaction data
 - Worked with existing team project structure
 
+**Files Involved:**
+
+- `UserBorrowHistory.vue`
+- `userService.js`
+- `users.php`
+- `UserController.php`
+- `Transaction.php`
+
 **Tech Stack:**  
 `Vue.js 3` | `Vite` | `Axios` | `PHP` | `MySQL` | `REST API`
 
 </td>
-<td width="50%" valign="top">
+  </tr>
 
-### Task Management System
+  <tr>
+    <td width="50%" valign="top">
+
+### Task Management System — In Progress
 
 A simple web-based system for managing tasks, deadlines, and work progress.  
 This project is designed to practice CRUD operations, MVC architecture, database design, and basic user interface development.
@@ -75,32 +112,9 @@ This project is designed to practice CRUD operations, MVC architecture, database
 `ASP.NET MVC` | `C#` | `SQL Server` | `HTML` | `CSS` | `JavaScript` | `Bootstrap`
 
 </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-
-### Employee Management System
-
-A basic CRUD web application for managing employee information, departments, and working status.  
-The project focuses on practicing database relationships, form handling, search, filtering, and pagination.
-
-**Planned Features:**
-
-- Add, edit, delete, and view employees
-- Manage departments
-- Search employees by name or employee ID
-- Filter employees by department
-- Display employee list with pagination
-- Store employee data in SQL Server
-
-**Tech Stack:**  
-`ASP.NET MVC` | `C#` | `Razor` | `LINQ` | `SQL Server`
-
-</td>
 <td width="50%" valign="top">
 
-### Bug Tracking System
+### Bug Tracking System — Planned
 
 A software issue management system for tracking bugs during the development process.  
 This project helps understand how software teams report, assign, and resolve bugs in real projects.
@@ -125,12 +139,19 @@ This project helps understand how software teams report, assign, and resolve bug
 
 ## Tech Stack
 
-<h3 align="center">Frontend Development</h3>
+<h3 align="center">Programming & Web Development</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-E67E22?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -138,32 +159,44 @@ This project helps understand how software teams report, assign, and resolve bug
 
 ---
 
-<h3 align="center">Backend & Database</h3>
+<h3 align="center">Backend, Database & Data Pipeline</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/DATABASE%20DESIGN-2C3E50?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NEO4J-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCRAPY-60A839?style=for-the-badge&logo=scrapy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLALCHEMY-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="center">Programming & Frameworks</h3>
+<h3 align="center">AI, RAG & System Architecture</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JAVA-E67E22?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-2C3E50?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/KNOWLEDGE%20GRAPH-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/TRANSLATION%20MEMORY-34495E?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/CHROMADB-5B5FC7?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">Frameworks & Software Engineering</h3>
+
+<p align="center">
   <img src="https://img.shields.io/badge/ASP.NET%20MVC-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/RAZOR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
-
----
-
-<h3 align="center">Software Engineering & Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OOP-34495E?style=for-the-badge&logo=codeforces&logoColor=white" />
@@ -172,15 +205,18 @@ This project helps understand how software teams report, assign, and resolve bug
   <img src="https://img.shields.io/badge/ALGORITHMS-8E44AD?style=for-the-badge&logo=thealgorithms&logoColor=white" />
 </p>
 
+---
+
+<h3 align="center">Tools & Deployment</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VISUAL%20STUDIO-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
----
 ---
 
 ## Connect With Me
