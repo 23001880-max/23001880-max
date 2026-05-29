@@ -47,7 +47,7 @@ The project applies Machine Translation, RAG, Translation Memory, and Knowledge 
 **My Role:**  
 Data Engineer — responsible for building the data pipeline and preparing bilingual corpus/knowledge data.
 
-**Main Responsibilities:**
+**Main Tasks:**
 
 - Collected English–Vietnamese scientific sentence data
 - Cleaned and normalized raw text data
@@ -69,7 +69,7 @@ Data Engineer — responsible for building the data pipeline and preparing bilin
 A web-based library management system built with a separated frontend and backend architecture.  
 The system supports book management, user management, borrowing records, ledger tracking, and library operation management.
 
-**My Responsibility:**  
+**My Role:**  
 Implemented the **User Borrow History** feature.
 
 **Main Tasks:**
