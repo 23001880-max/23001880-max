@@ -19,7 +19,6 @@ I am interested in software development, web application development, database s
 - Improving knowledge of **Object-Oriented Programming and Data Structures**
 - Studying **Database Systems and Operating Systems**
 - Practicing debugging and problem-solving skills
-- Preparing for an **IT Intern / Software Developer Intern** position
 
 ---
 
