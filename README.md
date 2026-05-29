@@ -134,39 +134,6 @@ This project is designed to practice CRUD operations, MVC architecture, database
   <tr>
     <td width="50%" valign="top">
 
-### Bug Tracking System — Planned
-
-A software issue management system for tracking bugs during the development process.  
-This project helps understand how software teams report, assign, and resolve bugs in real projects.
-
-**Planned Features:**
-
-- Create and update bug reports
-- Manage bug priority and severity
-- Assign bugs to developers
-- Track bug status: New, In Progress, Fixed, Closed
-- Search and filter bugs
-- Manage comments for each issue
-
-**Tech Stack:**  
-`Java` | `Spring Boot` | `MySQL` | `REST API` | `Bootstrap`
-
-</td>
-<td width="50%" valign="top">
-
-### Future Project
-
-More software development projects will be added here as I continue learning and building practical applications.
-
-**Current Direction:**  
-`Java` | `.NET` | `SQL` | `Web Development` | `REST API`
-
-</td>
-  </tr>
-</table>
-
----
-
 ## Tech Stack
 
 <h3 align="center">Programming & Web Development</h3>
