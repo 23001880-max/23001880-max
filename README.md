@@ -176,7 +176,7 @@ This project is designed to practice CRUD operations, MVC architecture, database
 
 ---
 
-<h3 align="center">AI, Data Science & Machine Learning</h3>
+<h3 align="center">Data Science & Machine Learning</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MACHINE%20LEARNING-102230?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -194,7 +194,7 @@ This project is designed to practice CRUD operations, MVC architecture, database
 
 ---
 
-<h3 align="center">AI, RAG & System Architecture</h3>
+<h3 align="center">RAG & System Architecture</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/RAG-2C3E50?style=for-the-badge&logo=openai&logoColor=white" />
