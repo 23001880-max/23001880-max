@@ -1,6 +1,10 @@
+<div align="center">
+
 # Hi, I am Phạm Dương Hoàng
 
-**Computer Science Student @ HUS-VNU | Computer Vision & Machine Learning Researcher**  
+**Computer Science Student @ HUS-VNU | Computer Vision & Machine Learning Researcher**
+
+</div>
 
 ---
 
