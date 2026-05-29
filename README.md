@@ -1,6 +1,6 @@
 # Hi, I am Phạm Dương Hoàng
 
-**Computer and Information Sciences Student @ HUS-VNU**  
+**Computer Science Student @ HUS-VNU | Computer Vision & Machine Learning Researcher**  
 
 ---
 
