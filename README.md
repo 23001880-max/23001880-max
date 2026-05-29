@@ -64,6 +64,32 @@ Data Engineer — responsible for building the data pipeline and preparing bilin
 </td>
 <td width="50%" valign="top">
 
+### YouTube Channel Revenue Prediction
+
+A machine learning project that predicts YouTube channel revenue using channel performance metrics such as views, likes, comments, subscribers, watch time, and published videos.
+
+**My Role:**  
+Machine Learning Developer
+
+**Main Tasks:**
+
+- Built a Linear Regression model for YouTube revenue prediction
+- Implemented LDA for supervised dimensionality reduction
+- Applied K-Means clustering for unsupervised data analysis
+- Trained and evaluated machine learning models on processed YouTube revenue data
+- Used regression metrics such as MAE, RMSE, and R² to measure model performance
+- Worked with YouTube revenue datasets from 2018–2020
+- Analyzed model results and compared performance across experimental settings
+
+**Tech Stack:**  
+`Python` | `Pandas` | `NumPy` | `scikit-learn` | `Matplotlib` | `Seaborn` | `Linear Regression` | `LDA` | `K-Means`
+
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
 ### Library Management System
 
 A web-based library management system built with a separated frontend and backend architecture.  
@@ -84,10 +110,7 @@ Implemented the **User Borrow History** feature.
 `Vue.js 3` | `Vite` | `Axios` | `PHP` | `MySQL` | `REST API`
 
 </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
 ### Task Management System — In Progress
 
@@ -106,7 +129,10 @@ This project is designed to practice CRUD operations, MVC architecture, database
 `ASP.NET MVC` | `C#` | `SQL Server` | `HTML` | `CSS` | `JavaScript` | `Bootstrap`
 
 </td>
-<td width="50%" valign="top">
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
 
 ### Bug Tracking System — Planned
 
@@ -124,6 +150,16 @@ This project helps understand how software teams report, assign, and resolve bug
 
 **Tech Stack:**  
 `Java` | `Spring Boot` | `MySQL` | `REST API` | `Bootstrap`
+
+</td>
+<td width="50%" valign="top">
+
+### Future Project
+
+More software development projects will be added here as I continue learning and building practical applications.
+
+**Current Direction:**  
+`Java` | `.NET` | `SQL` | `Web Development` | `REST API`
 
 </td>
   </tr>
@@ -168,6 +204,24 @@ This project helps understand how software teams report, assign, and resolve bug
   <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/SCRAPY-60A839?style=for-the-badge&logo=scrapy&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLALCHEMY-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">AI, Data Science & Machine Learning</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-102230?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEABORN-4C78A8?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LINEAR%20REGRESSION-34495E?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/K--MEANS-8E44AD?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LDA-2C3E50?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
