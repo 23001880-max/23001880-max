@@ -34,11 +34,43 @@ I am interested in software development, web application development, database s
 
 ---
 
-## Practice Projects
+## Featured Projects
 
-> I am currently building small practice projects to strengthen my foundation in web development, databases, and software engineering.
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-### Task Management System — In Progress
+### Library Management System
+
+A web-based library management system built with a separated frontend and backend architecture.  
+The system supports book management, user management, borrowing records, ledger tracking, and library operation management.
+
+**My Responsibility:**  
+Implemented the **User Borrow History** feature on branch `feature-no13-user-history`.
+
+**Main Tasks:**
+
+- Built user borrow history page
+- Integrated frontend with backend API
+- Displayed borrowing history by user
+- Retrieved related user, book, and transaction data
+- Worked with existing team project structure
+
+**Files Involved:**
+
+- `UserBorrowHistory.vue`
+- `userService.js`
+- `users.php`
+- `UserController.php`
+- `Transaction.php`
+
+**Tech Stack:**  
+`Vue.js 3` | `Vite` | `Axios` | `PHP` | `MySQL` | `REST API`
+
+</td>
+<td width="50%" valign="top">
+
+### Task Management System
 
 A simple web-based system for managing tasks, deadlines, and work progress.  
 This project is designed to practice CRUD operations, MVC architecture, database design, and basic user interface development.
@@ -49,15 +81,18 @@ This project is designed to practice CRUD operations, MVC architecture, database
 - Manage task status: To Do, In Progress, Done
 - Search and filter tasks by status or keyword
 - Store task data in a relational database
+- Display task progress statistics
 
 **Tech Stack:**  
 `ASP.NET MVC` | `C#` | `SQL Server` | `HTML` | `CSS` | `JavaScript` | `Bootstrap`
 
-**Repository:** Coming soon
+</td>
+  </tr>
 
----
+  <tr>
+    <td width="50%" valign="top">
 
-### Employee Management System — Planned
+### Employee Management System
 
 A basic CRUD web application for managing employee information, departments, and working status.  
 The project focuses on practicing database relationships, form handling, search, filtering, and pagination.
@@ -69,18 +104,18 @@ The project focuses on practicing database relationships, form handling, search,
 - Search employees by name or employee ID
 - Filter employees by department
 - Display employee list with pagination
+- Store employee data in SQL Server
 
 **Tech Stack:**  
 `ASP.NET MVC` | `C#` | `Razor` | `LINQ` | `SQL Server`
 
-**Repository:** Coming soon
+</td>
+<td width="50%" valign="top">
 
----
-
-### Bug Tracking System — Planned
+### Bug Tracking System
 
 A software issue management system for tracking bugs during the development process.  
-This project is designed to understand how development teams report, assign, and resolve software issues.
+This project helps understand how software teams report, assign, and resolve bugs in real projects.
 
 **Planned Features:**
 
@@ -89,88 +124,65 @@ This project is designed to understand how development teams report, assign, and
 - Assign bugs to developers
 - Track bug status: New, In Progress, Fixed, Closed
 - Search and filter bugs
+- Manage comments for each issue
 
 **Tech Stack:**  
 `Java` | `Spring Boot` | `MySQL` | `REST API` | `Bootstrap`
 
-**Repository:** Coming soon
-
----
-
-### Leave Request Management System — Planned
-
-A leave request management system that simulates a basic approval workflow in a company.  
-This project helps practice business logic, request status management, and database operations.
-
-**Planned Features:**
-
-- Submit leave requests
-- Approve or reject requests
-- Track request status
-- View leave request history
-- Generate basic leave reports
-
-**Tech Stack:**  
-`Java` | `Spring Boot` | `MySQL` | `HTML` | `CSS` | `JavaScript`
-
-**Repository:** Coming soon
+</td>
+  </tr>
+</table>
 
 ---
 
 ## Tech Stack
 
-<h3 align="center">Currently Learning & Practicing</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JAVA-E67E22?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+<h3 align="center">Frontend Development</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="center">Web Development & Backend</h3>
+<h3 align="center">Backend & Database</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ASP.NET%20MVC-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAZOR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
----
-
-<h3 align="center">Database</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/DATABASE%20DESIGN-2C3E50?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="center">Computer Science Foundation</h3>
+<h3 align="center">Programming & Frameworks</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OOP-34495E?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/DATA%20STRUCTURES-1F618D?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/ALGORITHMS-8E44AD?style=for-the-badge&logo=thealgorithms&logoColor=white" />
-  <img src="https://img.shields.io/badge/OPERATING%20SYSTEMS-2C3E50?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-E67E22?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20MVC-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAZOR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="center">Tools</h3>
+<h3 align="center">Software Engineering & Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OOP-34495E?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVC%20ARCHITECTURE-2C3E50?style=for-the-badge&logo=framework&logoColor=white" />
+  <img src="https://img.shields.io/badge/DATA%20STRUCTURES-1F618D?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/ALGORITHMS-8E44AD?style=for-the-badge&logo=thealgorithms&logoColor=white" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -180,6 +192,7 @@ This project helps practice business logic, request status management, and datab
   <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
+---
 ---
 
 ## Connect With Me
