@@ -75,14 +75,6 @@ The system supports book management, user management, borrowing records, ledger 
 - Retrieved related user, book, and transaction data
 - Worked with existing team project structure
 
-**Files Involved:**
-
-- `UserBorrowHistory.vue`
-- `userService.js`
-- `users.php`
-- `UserController.php`
-- `Transaction.php`
-
 **Tech Stack:**  
 `Vue.js 3` | `Vite` | `Axios` | `PHP` | `MySQL` | `REST API`
 
