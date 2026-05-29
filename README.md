@@ -45,9 +45,6 @@ I am interested in software development, web application development, database s
 A web-based library management system built with a separated frontend and backend architecture.  
 The system supports book management, user management, borrowing records, ledger tracking, and library operation management.
 
-**My Responsibility:**  
-Implemented the **User Borrow History** feature on branch `feature-no13-user-history`.
-
 **Main Tasks:**
 
 - Built user borrow history page
@@ -55,14 +52,6 @@ Implemented the **User Borrow History** feature on branch `feature-no13-user-his
 - Displayed borrowing history by user
 - Retrieved related user, book, and transaction data
 - Worked with existing team project structure
-
-**Files Involved:**
-
-- `UserBorrowHistory.vue`
-- `userService.js`
-- `users.php`
-- `UserController.php`
-- `Transaction.php`
 
 **Tech Stack:**  
 `Vue.js 3` | `Vite` | `Axios` | `PHP` | `MySQL` | `REST API`
