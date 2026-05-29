@@ -131,8 +131,9 @@ This project is designed to practice CRUD operations, MVC architecture, database
 </td>
   </tr>
 
-  <tr>
-    <td width="50%" valign="top">
+</table>
+
+---
 
 ## Tech Stack
 
