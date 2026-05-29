@@ -70,7 +70,7 @@ A web-based library management system built with a separated frontend and backen
 The system supports book management, user management, borrowing records, ledger tracking, and library operation management.
 
 **My Responsibility:**  
-Implemented the **User Borrow History** feature on branch `feature-no13-user-history`.
+Implemented the **User Borrow History** feature.
 
 **Main Tasks:**
 
